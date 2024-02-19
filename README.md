@@ -1,6 +1,6 @@
 # Getting Started app for Discord
 
-This project contains a basic rock-paper-scissors-style Discord app written in JavaScript, built for the [getting started guide](https://discord.com/developers/docs/getting-started).
+This project is NOT MINE!!! I am simply using this as a base to work from multiple places at once. Please do not steal from this code, and instead use the code from discord here: (https://discord.com/developers/docs/getting-started).
 
 ![Demo of app](https://github.com/discord/discord-example-app/raw/main/assets/getting-started-demo.gif?raw=true)
 
